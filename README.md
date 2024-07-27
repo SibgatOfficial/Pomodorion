@@ -8,7 +8,6 @@ I created Pomodorion, a Pomodoro Timer, to help manage work and break intervals 
 5-Minute Short Breaks: Take brief breaks to rest and recharge.
 15-Minute Long Breaks: After every 4 focus sessions, take a longer break to refresh.
 Minimalist Design: Simple and clean user interface to minimize distractions.
-Session Tracking: Keep track of completed Pomodoro sessions.
 
 ##Technologies Used
 HTML5: For the structure and layout of the application.
